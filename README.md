@@ -2,13 +2,13 @@
 
 ### Úkol z druhé lekce:
 
-[Lekce-2-Úkol-Hotel](https://github.com/Kubiixx/Ukoly-z-lekci/tree/main/UkolHotel/src/com/engeto/projekthotel)
+[Lekce-2-Úkol-Hotel](https://github.com/Kubiixx/Ukoly-z-lekci/tree/main/UkolHotel/src/com/engeto/projekthotel);
 Úkol na základy objektů, tříd a metod.
 
 
 ### Úkol ze třetí lekce:
 
-[Lekce-3-Úkol- Cykly](https://github.com/Kubiixx/Ukoly-z-lekci/tree/main/UkolCykly/src/com/engeto/UkolCykly);
+[Lekce-3-Úkol- Cykly](https://github.com/Kubiixx/Ukoly-z-lekci/tree/main/UkolCykly/src/com/engeto/UkolCykly)
 Úkol na zápisy cyklů.
 
 
