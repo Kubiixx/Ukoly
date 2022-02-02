@@ -8,7 +8,7 @@
 
 ### Úkol ze třetí lekce:
 
-[Lekce-3-Úkol- Cykly](https://github.com/Kubiixx/Ukoly-z-lekci/tree/main/UkolCykly/src/com/engeto/UkolCykly)
+[Lekce-3-Úkol- Cykly](https://github.com/Kubiixx/Ukoly-z-lekci/tree/main/UkolCykly/src/com/engeto/UkolCykly);
 Úkol na zápisy cyklů.
 
 
