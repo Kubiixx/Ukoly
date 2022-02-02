@@ -2,7 +2,7 @@
 
 ### Úkol z druhé lekce:
 
-[Lekce-2-Úkol-Hotel](https://github.com/Kubiixx/Ukoly-z-lekci/tree/main/UkolHotel/src/com/engeto/projekthotel);
+[Lekce-2-Úkol-Hotel](https://github.com/Kubiixx/Ukoly-z-lekci/tree/main/UkolHotel/src/com/engeto/projekthotel)\n
 Úkol na základy objektů, tříd a metod.
 
 
